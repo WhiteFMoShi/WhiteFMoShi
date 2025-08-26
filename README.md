@@ -1,8 +1,10 @@
 ## Hi there 👋
-This is WhiteFMoShi, u cna call me Moshi or MoShi.
+This is WhiteFMoShi, u cna call me Moshi or MoShi.<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" /> </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhiteFMoShi)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteFMoShi&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhiteFMoShi&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteFMoShi&layout=donut&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=WhiteFMoShi&theme=ambient_gradient" /> </div>
 
 
 <!--
