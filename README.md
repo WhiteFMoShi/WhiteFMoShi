@@ -1,4 +1,9 @@
 ## Hi there 👋
+This is WhiteFMoShi, u cna call me Moshi or MoShi.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=/WhiteFMoShi)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteFMoShi&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **WhiteFMoShi/WhiteFMoShi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
