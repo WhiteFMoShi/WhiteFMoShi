@@ -2,8 +2,8 @@
 This is WhiteFMoShi, u can call me Moshi or MoShi.
 
 <div style="display: flex; flex-direction: row; gap: 10px; justify-content: center; align-items: flex-start;">
-  <img src="https://github-readme-stats.vercel.app/api?username=WhiteFMoShi&theme=ambient_gradient" style="height: 150px; width: auto;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteFMoShi&layout=donut&theme=ambient_gradient" style="height: 150px; width: auto;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WhiteFMoShi&theme=ambient_gradient" style="height: 160px; width: auto;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteFMoShi&layout=donut&theme=ambient_gradient" style="height: 160px; width: auto;" />
 </div>
 
 
