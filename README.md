@@ -1,10 +1,10 @@
-## Hi there 👋
-This is WhiteFMoShi, u cna call me Moshi or MoShi.<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=WhiteFMoShi" /> </div>
+## Hi👋
+This is WhiteFMoShi, u can call me Moshi or MoShi.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhiteFMoShi&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteFMoShi&layout=donut&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
-
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=WhiteFMoShi&theme=ambient_gradient" /> </div>
+<div style="display: flex; flex-direction: row; gap: 10px; justify-content: center; align-items: flex-start;">
+  <img src="https://github-readme-stats.vercel.app/api?username=WhiteFMoShi&theme=ambient_gradient" style="height: 150px; width: auto;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteFMoShi&layout=donut&theme=ambient_gradient" style="height: 150px; width: auto;" />
+</div>
 
 
 <!--
